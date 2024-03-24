@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 master copy
+=======
+test farooq
+>>>>>>> hello-world-images
+
+farooq new file starts here
